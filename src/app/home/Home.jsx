@@ -23,7 +23,7 @@ export default function Home() {
                     justo et nunc. Sed vitae nunc auctor, aliquet nunc id, tincidunt
                     nunc. Sed nec ullamcorper nunc. Nulla facilisi. Mauris auctor, nunc
                     vitae consectetur tincidunt, nisl urna tincidunt nunc, id lacinia
-                    nunc justo et nunc.
+                    nunc justo et nunc.ss
                 </Typography>
             </Container>
         </Box>
